@@ -5,6 +5,7 @@
 , "dependencies": {
   , "engine.io": "0.x"
   , "websocket.io": "0.x"
+  , "osc4node": "https://github.com/nulltask/osc4node/tarball/master"
   }
 , "devDependencies": {
     "node-dev": "*"
