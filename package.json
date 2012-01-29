@@ -1,0 +1,13 @@
+{
+  "name": "osc.io"
+, "version": "0.0.1-alpha"
+, "private": true
+, "dependencies": {
+  , "engine.io": "0.x"
+  , "websocket.io": "0.x"
+  }
+, "devDependencies": {
+    "node-dev": "*"
+  , "mocha": "*"
+  }
+}
